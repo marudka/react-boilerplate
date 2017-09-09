@@ -1,0 +1,30 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "react, es6, mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marudka/react-boilerplate.git"
+  },
+  "author": "Anna Welc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marudka/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/marudka/react-boilerplate#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.5.6"
+  }
+}
