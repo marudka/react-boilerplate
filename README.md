@@ -2,14 +2,10 @@
 webpack, react, es6, mocha, chai, enzyme
 
 Scripts:
-// run webpack
-- npm run build
+- npm run build // run webpack
 
-// run webpack and watcher
-- npm run start
+- npm run start // run webpack and watcher
 
-// run test
-- npm run test
+- npm run test // run test
 
-// test witch watcher
-- npm run tdd
+- npm run tdd // test witch watcher
